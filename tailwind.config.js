@@ -12,10 +12,13 @@ module.exports = {
     colors: {
       transparent: "transparent",
 
-      black: "#00303e",
       white: "#fff",
+      black: "#000",
 
       primary: "#00303e",
+      gold: "#efe158",
+      highlight: "#ec007c",
+      hope: "#66d9ef",
 
       gray: {
         100: "#f7fafc",
